@@ -4,3 +4,6 @@
 - postgreSQL
 - mySQL
 - mariaDB
+- msSQL
+- SQLite
+- firebase
